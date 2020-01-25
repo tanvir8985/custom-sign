@@ -29,6 +29,9 @@ input {
     color: black;
 }
 
+
+/* media queries */
+
 @media only screen and (max-width: 800px) {
     div {
         position: relative;
